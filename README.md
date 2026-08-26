@@ -1,6 +1,7 @@
 # Olá, eu sou o Rafael Santos 
 
 **Formação:** Estudante de Analise e Desenvolvimento de Sistema
+
 **Objetivos:** Ingressar no mercado de Tecnologia da Informação através de um programa de Estágio ou posição Junior, atuando no desenvolvimento de software (Front-end, Back-end ou Banco de Dados). Busco um ambiente onde eu possa aplicar meus conhecimentos acadêmicos em Python, C, Web e SQL, aprender com profissionais experientes e evoluir continuamente.
 
 ###  Sobre mim
