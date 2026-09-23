@@ -3,7 +3,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://www.linkedin.com/in/rafael-santos-ferreira-lima-4996a942b">
+  <a href="https://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
