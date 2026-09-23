@@ -1,9 +1,9 @@
 <p align="center">
   <a href="https://github.com/Rafael-Santos-Tech">
-    <img src="https://img.shields.io/badge/GitHub-Rafael_Santos_Tech-181717?style=for-the-badge&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
   </a>
 
-  <a href="https://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b">
+  <a href="https://www.linkedin.com/in/-4996a942b">
     <img src="https://img.shields.io/badge/LinkedIn-Rafael%20Santos-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
