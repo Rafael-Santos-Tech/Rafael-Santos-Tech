@@ -1,34 +1,21 @@
-<p align="center">
-  <a href="https://github.com/Rafael-Santos-Tech">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-  </a>
+# Olá, eu sou o Rafael dos Santos! 👋
 
-  <a href="https://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
+**Desenvolvedor em Formação | Estudante de Análise e Desenvolvimento de Sistemas**
 
+Sou apaixonado por tecnologia e focado em construir uma base sólida no desenvolvimento de software. Minha trajetória até aqui é inteiramente dedicada a projetos acadêmicos práticos, onde transformo conceitos de arquitetura, lógica de programação e banco de dados em soluções funcionais. Busco minha primeira oportunidade (Estágio ou Júnior) para agregar valor a uma equipe de tecnologia.
 
-# Olá, eu sou o Rafael Santos 
+### 🚀 O que estou estudando e construindo:
+- **Back-end e Lógica:** Aprofundando o domínio em algoritmos, estruturação de dados e Programação Orientada a Objetos utilizando **C** e **Python**.
+- **Desenvolvimento Web:** Criando interfaces semânticas e responsivas com **HTML, CSS e JavaScript**.
+- **Banco de Dados:** Modelagem e administração de dados relacionais com **MySQL**.
 
-**Formação:** Estudante de Analise e Desenvolvimento de Sistema
+### 💼 Meu Portfólio
+Quer ver meu código em ação? Documento toda a minha evolução e projetos da faculdade (como sistemas em CLI e integrações de dados) no meu site pessoal:
+👉 **[Acesse meu Portfólio Profissional](https://rafael-santos-tech.github.io/rafael-portfolio/)**
 
-**Objetivos:** Ingressar no mercado de Tecnologia da Informação através de um programa de Estágio ou posição Junior, atuando no desenvolvimento de software (Front-end, Back-end ou Banco de Dados). Busco um ambiente onde eu possa aplicar meus conhecimentos acadêmicos em Python, C, Web e SQL, aprender com profissionais experientes e evoluir continuamente.
+### 🛠️ Tecnologias e Ferramentas
+`Python` `C` `HTML5` `CSS3` `JavaScript` `MySQL` `Git` `VS Code`
 
-###  Sobre mim
-Sou estudante de Tecnologia e entusiasta do desenvolvimento de software. Tenho grande interesse nas áreas de Banco de Dados, Front-end e Back-end, buscando entender o funcionamento dos sistemas de ponta a ponta. Atualmente, dedico minha rotina de estudos ao fortalecimento da lógica de programação em C e Python, ao desenvolvimento web com HTML, CSS e JavaScript, e à manipulação estruturada de dados. Através de projetos acadêmicos e de estudo, busco aplicar a teoria na prática, aprimorando minhas habilidades para conquistar minha primeira oportunidade no mercado de TI.
-
-###  Áreas de Interesse
-- Desenvolvimento web
-- Desenvolvimento de software
-- Análise de sistemas
-- Análise de dados
-- Desenvolvimento de programas
-
-
-###  Tecnologias & Ferramentas em Estudo
-- JavaScript, HTML5, CSS3
-- Python, Git & GitHub
-
-**Conecte-se comigo:**
-- [LinkedIn] www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b
+### 📫 Vamos nos conectar!
+- **[E-mail](rafasantosflima2019@gmail.com)**
+- **[LinkedIn](http://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b)**
