@@ -17,5 +17,5 @@ Quer ver meu código em ação? Documento toda a minha evolução e projetos da 
 `Python` `C` `HTML5` `CSS3` `JavaScript` `MySQL` `Git` `VS Code`
 
 ### 📫 Vamos nos conectar!
-- **[E-mail](rafasantosflima2019@gmail.com)**
-- **[LinkedIn](http://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b)**
+- **[E-mail](https://mail.google.com/mail/?view=cm&fs=1&to=rafasantosflima2019@gmail.com)**
+- **[LinkedIn](https://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b)**
