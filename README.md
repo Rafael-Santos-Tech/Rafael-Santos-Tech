@@ -20,7 +20,7 @@ Sou estudante de Tecnologia e entusiasta do desenvolvimento de software. Tenho g
 - **Web:** `HTML5` `CSS3` `JavaScript`
 - **Back-end & Lógica:** `Python` `C`
 - **Dados:** `SQL` `MySQL`
-- **Ferramentas:** `Git` `GitHub` `VS Code` `Code::Blocks`
+- **Ferramentas:** `Git` `GitHub` `VS Code` 
 
 ### 📫 Conecte-se comigo:
 - **LinkedIn:** [Acesse meu perfil](https://www.linkedin.com/in/rafael-dos-santos-ferreira-lima-4996a942b)
